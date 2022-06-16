@@ -49,11 +49,11 @@
 
 \- Генерация ключа:
 
-![](Aspose.Words.4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.001.jpeg "3d4b3007-f412-44dc-bcf2-52b05945dcfc")
+![](4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.001.jpeg "3d4b3007-f412-44dc-bcf2-52b05945dcfc")
 
 \- Создание структуры каталога лабораторных работ согласно пункту М.2.:
 
-![](Aspose.Words.4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.002.jpeg "497d4ca7-a98f-41b4-8092-aced8366d9a9")
+![](4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.002.jpeg "497d4ca7-a98f-41b4-8092-aced8366d9a9")
 
 1. **Подключение репозитория к github.**
 
@@ -67,7 +67,7 @@
 
 ` `– Делаю первый коммит и выкладываю на github: git commit -m "first commit" git remote add origin ↪ git@github.com:/sciproc-intro.git git push -u origin master
 
-![](Aspose.Words.4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.003.jpeg "9b620984-439d-40fb-8b54-c341872cde29")
+![](4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.003.jpeg "9b620984-439d-40fb-8b54-c341872cde29")
 
 1. **Первичная конфигурация.**
 
@@ -81,9 +81,9 @@
 
 – Отправила на github: git push
 
-![](Aspose.Words.4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.004.jpeg "787b4b7d-5639-4161-b6db-da913d046eae")
+![](4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.004.jpeg "787b4b7d-5639-4161-b6db-da913d046eae")
 
-![](Aspose.Words.4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.005.jpeg "6fa67a16-6a3f-4964-b0fe-4b0dd8c11cfb")
+![](4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.005.jpeg "6fa67a16-6a3f-4964-b0fe-4b0dd8c11cfb")
 
 1. **Конфигурация git-flow.**
 
@@ -105,9 +105,9 @@
 
 – Создадала релиз на github.
 
-![](Aspose.Words.4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.006.jpeg "e9ad38bb-3162-4eb9-ba8e-cb45d49b4734")
+![](4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.006.jpeg "e9ad38bb-3162-4eb9-ba8e-cb45d49b4734")
 
-![](Aspose.Words.4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.007.jpeg "7098f7a5-64dd-4abf-b2d5-6fa69380e52a")
+![](4f71fd36-3c6b-4f5c-911c-90c928e3e4e6.007.jpeg "7098f7a5-64dd-4abf-b2d5-6fa69380e52a")
 
 
 

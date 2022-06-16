@@ -48,31 +48,31 @@
 
 \1. Версия ядра Linux (Linux version).
 
-![](Aspose.Words.0fb22b98-d65b-4d8e-bbac-3b0568016e0e.001.png)
+![](0fb22b98-d65b-4d8e-bbac-3b0568016e0e.001.png)
 
 \2. Частота процессора (Detected Mhz processor).
 
-![](Aspose.Words.0fb22b98-d65b-4d8e-bbac-3b0568016e0e.002.png)
+![](0fb22b98-d65b-4d8e-bbac-3b0568016e0e.002.png)
 
 \3. Модель процессора (CPU0).
 
-![](Aspose.Words.0fb22b98-d65b-4d8e-bbac-3b0568016e0e.003.png)
+![](0fb22b98-d65b-4d8e-bbac-3b0568016e0e.003.png)
 
 \4. Объем доступной оперативной памяти (Memory available).
 
-![](Aspose.Words.0fb22b98-d65b-4d8e-bbac-3b0568016e0e.004.png)
+![](0fb22b98-d65b-4d8e-bbac-3b0568016e0e.004.png)
 
 \5. Тип обнаруженного гипервизора (Hypervisor detected).
 
-![](Aspose.Words.0fb22b98-d65b-4d8e-bbac-3b0568016e0e.005.png)
+![](0fb22b98-d65b-4d8e-bbac-3b0568016e0e.005.png)
 
 \6. Тип файловой системы корневого раздела.
 
-![](Aspose.Words.0fb22b98-d65b-4d8e-bbac-3b0568016e0e.006.png)
+![](0fb22b98-d65b-4d8e-bbac-3b0568016e0e.006.png)
 
 \7. Последовательность монтирования файловых систем.
 
-![](Aspose.Words.0fb22b98-d65b-4d8e-bbac-3b0568016e0e.007.png)
+![](0fb22b98-d65b-4d8e-bbac-3b0568016e0e.007.png)
 
 
 **Контрольные вопросы:**
